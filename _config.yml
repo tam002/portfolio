@@ -16,8 +16,4 @@ email: dominik.haitz [at] gmx.de
 twitter_username: d_haitz
 github_username:  dhaitz
 
-# Google-analytics
-google-analytics:
-  id: ""
-
 exclude: ['package.json', 'src' , 'node_modules']
