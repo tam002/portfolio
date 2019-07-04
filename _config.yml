@@ -5,13 +5,14 @@ description: Dominik Haitz' professional portfolio site
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Dr. Dominik Haitz
+username: Dominik Haitz
+user_title: Dr.
 user_description: |
   I'm a data scientist in Karlsruhe, Germany.
   Before I went into industry, I obtained a physics PhD from KIT for deriving insights on the structure of matter from CERN particle collision data.
   I love working with great people, getting creative with data, using state-of-the-art technologies and building awesome products.
   Interested in working together or having a chat? Feel free to contact me.
-user_title: Data Scientist
+user_job_title: Data Scientist
 email: dominik.haitz [at] gmx.de
 twitter_username: d_haitz
 github_username:  dhaitz
