@@ -75,11 +75,11 @@
     border: 2px solid #FFF;
     transition: all .7s;
     &:hover {
-      color: $main;
+      color: $sec;
       background: #FFF;
     }
     &:active {
-      color: $main;
+      color: $sec;
       background: #FFF;
     }
     @media only screen and (min-width:$cut) {
@@ -114,10 +114,10 @@
       -webkit-animation: pulse 1.3s infinite;
       animation: pulse 1.3s infinite;
       &:hover {
-        color: #FFF;
+        color: $sec;
       }
       &:active {
-        color: #FFF;
+        color: $sec;
       }
   }
 }
